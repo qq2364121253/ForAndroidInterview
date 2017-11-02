@@ -4,7 +4,7 @@
 
 * [Android 名企面试题及涉及知识点整理。](README.md)
 
-* [Android]
+* [Android](/android/全面了解Activity.md)
 
 	* [全面了解Activity](/android/全面了解Activity.md)
 
@@ -41,7 +41,7 @@
 	* [Android 名企面试题及答案整理（一）](/android/Android%20名企面试题及答案整理（一）.md) 
 
   
-* [Java]
+* [Java](/java/[Java]%20ArrayList、LinkedList、Vector的区别.md)
 
 	* [[Java] ArrayList、LinkedList、Vector的区别](/java/[Java]%20ArrayList、LinkedList、Vector的区别.md)
 
@@ -95,7 +95,7 @@
 	* [[java] 多态实现的JVM调用过程](/java/[java]%20多态实现的JVM调用过程.md)
 
 
-* [数据结构]
+* [数据结构](/data%20structure/[数据结构]%20九大基础排序总结与对比.md)
 
 	* [[数据结构] 九大基础排序总结与对比](/data%20structure/[数据结构]%20九大基础排序总结与对比.md)
 
@@ -121,7 +121,7 @@
 
 	* [[数据结构] 队列和栈](/data%20structure/[数据结构]%20队列和栈.md)
 
-* [算法]
+* [算法](/algorithm/swordForOffer/二叉搜索树与双向链表.md)
 
 	* [二叉搜索树与双向链表](/algorithm/swordForOffer/二叉搜索树与双向链表.md)
 
