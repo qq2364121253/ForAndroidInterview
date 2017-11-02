@@ -95,7 +95,7 @@
 	* [[java] 多态实现的JVM调用过程](/java/[java]%20多态实现的JVM调用过程.md)
 
 
-* [数据结构](/data structure)
+* [数据结构](/data%20structure)
 
 	* [[数据结构] 九大基础排序总结与对比](/data%20structure/[数据结构]%20九大基础排序总结与对比.md)
 
