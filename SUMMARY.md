@@ -37,7 +37,7 @@
 
 	* [AIDL的使用情况和实例介绍](/android/AIDL的使用情况和实例介绍.md)
 
-	* [[Android] 名企面试题及答案整理（一）](/android/[Android]%20名企面试题及答案整理（一）.md) 
+	* [Android 名企面试题及答案整理（一）](/android/Android%20名企面试题及答案整理（一）.md) 
 
   
 * [Java](/java)
