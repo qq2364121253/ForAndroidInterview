@@ -125,7 +125,7 @@
 
 	* [二叉搜索树与双向链表](/algorithm/swordForOffer/二叉搜索树与双向链表.md)
 
-	* [二叉树中 和为某值 的所有路径](/algorithm/swordForOffer/二叉树中 和为某值 的所有路径.md)
+	* [二叉树中 和为某值 的所有路径](/algorithm/swordForOffer/二叉树中%20和为某值%20的所有路径.md)
 
 	* [二叉树的镜像](/algorithm/swordForOffer/二叉树的镜像.md)
 
@@ -164,8 +164,7 @@
 	* [旋转数组的最小数字](/algorithm/swordForOffer/旋转数组的最小数字.md)
 
 	* [浮点数的整数次方](/algorithm/swordForOffer/浮点数的整数次方.md)
-
-	 [用两个栈实现队列](/algorithm/swordForOffer/用两个栈实现队列.md)
+	* [用两个栈实现队列](/algorithm/swordForOffer/用两个栈实现队列.md)
 
 	* [矩形覆盖](/algorithm/swordForOffer/矩形覆盖.md)
 
@@ -178,15 +177,6 @@
 	* [链表中倒数第k个结点](/algorithm/swordForOffer/链表中倒数第k个结点.md)
 
 	* [顺时针打印矩阵](/algorithm/swordForOffer/顺时针打印矩阵.md)
-
-
-
-
-
-
-
-
-
 
 
 
